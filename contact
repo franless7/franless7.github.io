@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KickQuiz App Support</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            max-width: 650px;
+            margin: 40px auto;
+            line-height: 1.6;
+            color: #222;
+            padding: 0 16px;
+        }
+        h1 { color: #2a7b2a; }
+        h2 { border-bottom: 2px solid #eee; padding-bottom: 5px; margin-top: 25px; }
+        a { color: #007bff; text-decoration: none; }
+    </style>
+</head>
+<body>
+    <h1>KickQuiz - Support & Help</h1>
+
+    <p>
+        Thank you for playing KickQuiz! We are here to help you with any questions or issues regarding the app.
+    </p>
+
+    <h2>1. Contact Information</h2>
+    <p>
+        If you have any questions, feedback, or need technical support, please contact our support team directly via email:
+    </p>
+    <p>
+        <strong>Support Email:</strong> <a href="mailto:footballquizapp@gmail.com">footballquizapp@gmail.com</a>
+    </p>
+
+    <h2>2. App Information</h2>
+    <ul>
+        <li><strong>App Name:</strong> KickQuiz - The Football Trivia Game</li>
+        <li><strong>Current Version:</strong> (Uygulamanızın mevcut versiyonunu buraya yazın, örneğin: 1.0)</li>
+        <li><strong>Supported Devices:</strong> iPhone Only</li>
+    </ul>
+    
+    <h2>3. Frequently Asked Questions (FAQ)</h2>
+    <ul>
+        <li><strong>Why do I need an internet connection?</strong><br>
+        KickQuiz requires an active internet connection to download the latest quiz content, images, and to update Game Center leaderboards.</li>
+        
+        <li><strong>I found an incorrect answer/question. How can I report it?</strong><br>
+        Please send an email to our support address (<a href="mailto:footballquizapp@gmail.com">footballquizapp@gmail.com</a>) with the specific question details, and we will update it immediately!</li>
+        
+        <li><strong>Is my personal data safe?</strong><br>
+        Yes. As detailed in our Privacy Policy, KickQuiz does not collect, store, or share any personally identifiable information.</li>
+    </ul>
+
+    <p style="margin-top: 30px; font-size: 0.9em; color: #555;">
+        Last updated: November 12, 2025
+    </p>
+</body>
+</html>
